@@ -1,21 +1,21 @@
 {
   "Product": {
-    "name": "剧情助手",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "美味佳肴--WayToAGI",
+    "solgan": "尽享美味。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "为您挑选最美味的食品",
+      "description": "提供每一步细节，使您做出最美味的菜品。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
+        "title": "生成菜谱",
         "description": "轻松创建详细的角色档案。"
       },
       "storyStructure": {
