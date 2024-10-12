@@ -1,7 +1,12 @@
 {
   "Product": {
+<<<<<<< HEAD
     "name": "美味佳肴--WayToAGI",
     "solgan": "尽享美味。"
+=======
+    "name": "剧情助手WayToAGI",
+    "solgan": "创意到剧本，AI全程助力。"
+>>>>>>> 2ece60d16f07a808cfc986b9fba4aa3a8c319050
   },
   "LandingPage": {
     "Index": {
