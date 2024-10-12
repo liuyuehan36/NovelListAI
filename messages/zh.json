@@ -9,7 +9,7 @@
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "为您挑选最美味的食品",
+      "title": "为您挑选最美味的食材",
       "description": "提供每一步细节，使您做出最美味的菜品。",
       "cta": "开始使用"
     },
@@ -75,7 +75,7 @@
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "食材to美食",
       "imageAlt": "ScriptCraft界面"
     }
   },
