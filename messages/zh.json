@@ -17,19 +17,19 @@
       "title": "主要功能",
       "characterProfile": {
         "title": "生成菜谱",
-        "description": "轻松创建详细的角色档案。"
+        "description": "列出所需材料。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "调味料",
+        "description": "列出所需调味品"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "详细步骤",
+        "description": "列出所需时间"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "ai美味",
+        "description": "利用AI驱动的建议提升您的手艺。"
       }
     },
     "Testimonials": {
